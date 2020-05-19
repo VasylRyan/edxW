@@ -1,0 +1,41 @@
+Page 1:
+      index - webpage about myself
+
+      Hello.
+      My name is Vasyl.
+      I am from Ukraine, but now I live in Poland.
+      I am a lifeguard and swimming coach.
+      I like my job.
+      I have many hobbies.
+      My favorite interests are swimming, cycling, reading books, workout, running.
+
+      FOTO
+
+Page 2:
+      interests - about my interests
+
+      - swimming
+      ** abuot
+      ### helpfulness
+
+      - cycling
+      ** abuot
+      ### helpfulness
+
+      - reading books
+      ** abuot
+      ### helpfulness
+
+      - workout
+      ** abuot
+      ### helpfulness
+
+      - running
+      ** abuot
+      ### helpfulness
+
+Page 3:
+      topic about my lifeguard work
+
+Page 4:
+      topic about my work as a swimming coach
