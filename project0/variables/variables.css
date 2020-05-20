@@ -1,0 +1,19 @@
+ul {
+  font-size: 14px;
+  color: red; }
+
+ol {
+  font-size: 18px;
+  color: red; }
+
+  @media (min-width: 500px) {
+      h1::before {
+          content: "Welcome to My Web Page!";
+      }
+  }
+
+  @media (max-width: 499px) {
+      h1::before {
+          content: "Welcome!";
+      }
+/*# sourceMappingURL=variables.css.map */
