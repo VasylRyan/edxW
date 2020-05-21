@@ -6,6 +6,7 @@ ol {
   font-size: 18px;
   color: red; }
 
+
   @media (min-width: 500px) {
       h1::before {
           content: "Welcome to My Web Page!";

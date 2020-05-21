@@ -1,7 +1,7 @@
 
 Requirements:
-      - four different .html pages
-      - hyperlinks
+DONE      - four different .html pages
+DONE      - hyperlinks
       - ordered list
       - unordered list
       - one table
@@ -9,7 +9,7 @@ Requirements:
       - stylesheet file
         ** stylesheet(s) must use at least five different CSS properties
         ** stylesheet(s) must use at least five different types of CSS selectors
-        **  #id selector at least once
+DONE        **  #id selector at least once
         **  .class selector at least once.
         **  stylesheet(s) must include at least one mobile-responsive @media query, such that something about the styling changes for smaller screens
       - use Bootstrap 4 on your website, taking advantage of at least one Bootstrap component,
@@ -58,6 +58,7 @@ Page 2:
 
 Page 3:
       topic about swimming coach jobs
+      https://myjobsearch.com/careers/swimming-coach.html
 
 Page 4:
       topic about lifeguard jobs
