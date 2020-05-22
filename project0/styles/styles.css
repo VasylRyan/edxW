@@ -6,6 +6,21 @@ ol {
   font-size: 18px;
   color: red; }
 
+  table {
+      border: 2px solid black;
+      border-collapse: collapse;
+      width: 50%;
+  }
+
+  th, td {
+      border: 1px solid black;
+      padding: 5px;
+      text-align: center;
+  }
+
+  th {
+      background-color: lightgray;
+  }
 
   @media (min-width: 500px) {
       h1::before {

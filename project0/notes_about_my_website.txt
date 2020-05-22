@@ -2,9 +2,9 @@
 Requirements:
 DONE      - four different .html pages
 DONE      - hyperlinks
-      - ordered list
-      - unordered list
-      - one table
+DONE      - ordered list
+DONE      - unordered list
+DONE      - one table
       - one image
       - stylesheet file
         ** stylesheet(s) must use at least five different CSS properties
