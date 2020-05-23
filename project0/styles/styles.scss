@@ -1,0 +1,38 @@
+$color: blue;
+
+
+p::selection { color: red;
+                background-color: yellow;}
+ul, ol {
+  font-size: 14px;
+  color: $color; }
+
+  table {
+      border: 2px solid black;
+      border-collapse: collapse;
+      width: 50%;}
+  th, td {
+      border: 1px solid black;
+      padding: 5px;
+      text-align: center;}
+  th {background-color: lightgray;}
+
+  @media (min-width: 500px) {
+      h1::before {
+          content: "Welcome to My Web Page!";}}
+
+  @media (max-width: 499px) {
+      h1::before {
+          content: "Welcome!";}}
+.green {color: green; }
+.blue {color: blue; }
+
+#Salary, #Skills {color: red; }
+#Responsibilities, #Experience{color: grey; }
+#Qualifications, #Employers{color: green; }
+#Career_Progression, #Working_Conditions{color: #00FFFF; }
+
+.row > div {
+                padding: 20px;
+                background-color: teal;
+                border: 2px solid black;  }
