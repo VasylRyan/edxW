@@ -12,7 +12,8 @@ flask run
 
 
 
-
+# Activate the virtualenv
+$ source myvirtualenv/bin/activate
 
 
 https://www.goodreads.com/api/keys
